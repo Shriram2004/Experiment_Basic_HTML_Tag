@@ -18,9 +18,9 @@ Execute the program
 <html>
 
 <body>
-<h1>Name: Karthi Govindharaju</h1>
-<h3>Designation: Assistant Professor (SG) /h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>Name: Shriram</h1>
+<h3>Ref no: 21500599 </h3>
+<h5>Dept.:Artifial Intelligence and Machine Learning</h5>
 </body>
 
 </html>
@@ -28,8 +28,8 @@ Execute the program
 # OUPUT
 <html>
 <body>
-<h1>Name: Karthi Govindharaju</h1>
-<h3>Designation: Assistant Professor (SG)</h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>Name: Shriram</h1>
+<h3>Ref no: 21500599 </h3>
+<h5>Dept.:Artifial Intelligence and Machine Learning</h5>
 </body>
 </html>
